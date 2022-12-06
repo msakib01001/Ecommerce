@@ -1,0 +1,21 @@
+.container div{
+    background-color: aqua;
+    margin: 20px;
+    width: 100px;
+    line-height: 80px;
+    border-radius: 7px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    width: 400px;
+    height: 400px;
+    border: 1px solid #000;
+    justify-content: space-around;
+}
+
+
+
+
+align item in justyfi container in heare to dare to leaf lorem ipsum 30 per miniut in here i not is this a another here too 
